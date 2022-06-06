@@ -1,0 +1,15 @@
+{
+  "name": "bs-icon",
+  "version": "0.0.1",
+  "description": "Bootstrap icon",
+  "main": "index.js",
+  "author": "Dany Beltran",
+  "peerDependencies": {
+    "react": ">=16.13.1",
+    "react-dom": ">=16.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.12",
+    "@types/react-dom": "^18.0.5"
+  }
+}
