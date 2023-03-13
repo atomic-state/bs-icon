@@ -1,4 +1,6 @@
 import React, { FC } from "react"
+import "./icons.css"
+
 type IconName =
   | "123"
   | "alarm-fill"
